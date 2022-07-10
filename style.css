@@ -1,0 +1,19 @@
+.heading{
+    width: 100%;
+    font-size: 20px;
+    margin: 0px;
+    font-family: cursive;
+}
+body{
+    background-size: cover;
+}
+.song{
+    font-size: 20px;
+    font-family: cursive;
+}
+canvas{
+    box-shadow: 2px 2px 2px aqua;
+    border-radius: 25px;
+    border: 5px double greenyellow;
+    margin-top: 70px;
+}
